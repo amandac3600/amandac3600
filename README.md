@@ -10,5 +10,5 @@
 
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/amanda-chen-4b175a146/)
+[<img align="left" color="rgb(0, 128, 255)" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/amanda-chen-4b175a146/)
 [<img align="left" alt="AngelList" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg"/>](https://angel.co/u/amanda-chen-13)
