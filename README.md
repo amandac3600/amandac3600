@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on some final touches for my Flip Up project
 - 🌱 I’m currently learning MERN
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amanda-chen-4b175a146/) or [AngelList](https://angel.co/u/amanda-chen-13)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amanda-chen-4b175a146/), [AngelList](https://angel.co/u/amanda-chen-13), or [Email](mailto:amandac3600@gmail.com)
 - 💬 Ask me about anything!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love making my own boba at home
