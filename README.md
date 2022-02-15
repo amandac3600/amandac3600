@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Amanda, an accountant turned software engineer! 👋
 
 
 - 🔭 I’m currently working on some final touches for my Flip Up project
