@@ -8,4 +8,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love making my own boba at home
 
+[![Amanda's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandac3600)](https://github.com/amandac3600/github-readme-stats)
+
 [![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandac3600&count_private=true)](https://github.com/amandac3600/github-readme-stats)
