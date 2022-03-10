@@ -1,3 +1,5 @@
+![github-header-image](https://user-images.githubusercontent.com/92603028/157566587-cb4262d5-beb0-4478-9562-c9783007395b.png)
+
 ### Hi there, I'm Amanda! 👋
 #### I am a recent graduate from UCLA and an accountant turned software engineer 🖥️
 
