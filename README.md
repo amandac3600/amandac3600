@@ -1,9 +1,8 @@
 ![github-header-image](https://user-images.githubusercontent.com/92603028/157566587-cb4262d5-beb0-4478-9562-c9783007395b.png)
 
-#### I am a recent graduate from UCLA and an accountant turned software engineer 🖥️
+#### I am a graduate from UCLA and an accountant turned software engineer 🖥️
 
-- 🔭 I’m currently working on some final touches for my Flip Up project
-- 🌱 I’m currently studying DS&A
+- 🌱 I’m currently working as a frontend software engineer at Prevail Legal
 - 📫 How to reach me: [Personal Portfolio](https://amandakchen.com/), [LinkedIn](https://www.linkedin.com/in/amanda-chen-4b175a146/), [AngelList](https://angel.co/u/amanda-chen-13), or [Email](mailto:amandac3600@gmail.com)
 - 💬 Ask me about anything!
 - 😄 Pronouns: She/Her
